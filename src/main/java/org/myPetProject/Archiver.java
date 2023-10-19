@@ -22,7 +22,7 @@ public class Archiver {
             } catch (WrongZipFileException e) {
                 ConsoleHelper.writeMessage("Вы не выбрали файл архива или выбрали не верный файл.");
             }catch (PathsNotFoundException e) {
-                ConsoleHelper.writeMessage("Произошла ошибкаю Проверьте введенные данные.");
+                ConsoleHelper.writeMessage("Произошла ошибка. Проверьте введенные данные.");
             }
         } while (operation != Operation.EXIT);
     }
