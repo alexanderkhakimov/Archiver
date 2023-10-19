@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b019981f-b665-40f5-9327-077154398504" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/Archiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/Archiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/command/ZipCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/command/ZipCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/command/ZipCreateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/command/ZipCreateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/ZipFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/ZipFileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/command/ZipContentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/command/ZipContentCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697631967801</updated>
-      <workItem from="1697631969171" duration="14263000" />
+      <workItem from="1697631969171" duration="17896000" />
     </task>
     <servers />
   </component>
@@ -100,6 +99,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/myPetProject/Archiver.java</url>
           <line>27</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/myPetProject/Archiver.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
