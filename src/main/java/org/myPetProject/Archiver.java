@@ -1,5 +1,7 @@
 package org.myPetProject;
 
+import org.myPetProject.command.ExitCommand;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.nio.file.Paths;
@@ -20,5 +22,7 @@ public class Archiver
 
         System.out.println("Введите полное имя файла для архивации");
         zipFileManager.createZip(Paths.get(br.readLine()));
+
+        new ExitCommand().execute();
     }
 }
