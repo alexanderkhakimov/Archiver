@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b019981f-b665-40f5-9327-077154398504" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/exception/PathsNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/exception/WrongZipFileException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/Archiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/Archiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/myPetProject/ZipFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/myPetProject/ZipFileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697631967801</updated>
-      <workItem from="1697631969171" duration="8936000" />
+      <workItem from="1697631969171" duration="13195000" />
     </task>
     <servers />
   </component>
